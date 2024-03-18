@@ -1,0 +1,49 @@
+Product ID: A100
+Product Name: Fan
+Price: 500.0
+Available Items: 30
+Type: Electronics
+Brand: Panasonic
+Warranty Period: 24
+Product ID: A101
+Product Name: Laptop
+Price: 1000.0
+Available Items: 2
+Type: Electronics
+Brand: Lenovo
+Warranty Period: 24
+Product ID: A102
+Product Name: Blender
+Price: 120.0
+Available Items: 16
+Type: Electronics
+Brand: Panasonic
+Warranty Period: 24
+Product ID: A104
+Product Name: VaccumCleaner
+Price: 300.0
+Available Items: 2
+Type: Electronics
+Brand: Azor
+Warranty Period: 12
+Product ID: B100
+Product Name: Tshirt
+Price: 20.0
+Available Items: 10
+Type: Clothing
+Size: S
+Colour: Blue
+Product ID: B104
+Product Name: Jeans
+Price: 12.0
+Available Items: 2
+Type: Clothing
+Size: M
+Colour: Pink
+Product ID: B106
+Product Name: Dress
+Price: 30.0
+Available Items: 14
+Type: Clothing
+Size: L
+Colour: Red
